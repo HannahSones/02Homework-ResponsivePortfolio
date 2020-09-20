@@ -3,10 +3,11 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
+    background-image: url('light-grey-terrazzo.png');
 }
 
 
 .footer {
-    background-color: lightgray;
+    background-color: teal;
     color: #000000;
 }
