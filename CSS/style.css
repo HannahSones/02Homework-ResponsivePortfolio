@@ -7,7 +7,7 @@ body {
 }
 
 
-.footer {
-    background-color: teal;
-    color: #000000;
+footer > div {
+    background-color: #343a40;
+    color: #FFFFFF;
 }
