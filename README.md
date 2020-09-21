@@ -28,7 +28,7 @@ See screenshots of final design below.
 
 ## Link to deployed application
 
-
+https://hannahsones.github.io/02Homework-ResponsivePortfolio/
 
 -------------
 © Hannah Sones. All rights reserved.
