@@ -10,4 +10,11 @@ body {
 footer > div {
     background-color: #343a40;
     color: #FFFFFF;
+    margin: auto;
+    font-size: 14px;
+}
+
+.blockWhiteBackground {
+    background-color: #ffffff;
+    padding: 20px 15px;
 }
